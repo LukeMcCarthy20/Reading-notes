@@ -1,5 +1,5 @@
 # Learning Markdown
-***Assignment***
+***Reading notes***
 
 ---
 ## Intro

@@ -9,4 +9,4 @@ Assignment
    1. You can use a single hashtag to create the largest heading (Usally used for the title of your markdown)
    2. The smallest header can be created with six hashtags. Headings range from 1 to six hashtags (getting smaller with every hashtag added)
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol? The Asterisk symbol is best practice for creating those texts
-5. To create a link with Markdown 
+5. To create a link with Markdown-

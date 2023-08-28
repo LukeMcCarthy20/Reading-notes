@@ -3,7 +3,7 @@
 
 ---
 ## What are four important features to look for in a text editor?
-1. Code Completion, syntax highlighting, nice variety of themes, ) the ability to choose from a healthy selection of extensions available
+1. Code Completion, syntax highlighting, nice variety of themes, the ability to choose from a healthy selection of extensions available
 2. What do the following commands do?
    
   **pwd**- Prints the name of the current directory

@@ -13,7 +13,7 @@ A growth mindset is all about tackling challenges head-on and charging forward t
 
 **Learn from setbacks**- *Reflect* on what went wrong, learn from it, and ***adpat*** your approach. Every setback is a chance to come back stronger.
 # Table of Contents
-1. [Growth Mindset]((https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
+1. [Growth Mindset Picture](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 2. [Reading Notes](Learning-Markdown.md)
 
 

@@ -15,5 +15,5 @@ A growth mindset is all about tackling challenges head-on and charging forward t
 # Table of Contents
 1. [Growth Mindset Picture](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 2. [Reading Notes](Learning-Markdown.md)
-
+3. [Reading Notes 2](
 

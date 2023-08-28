@@ -5,11 +5,17 @@
 ## What are four important features to look for in a text editor?
 1. Code Completion, syntax highlighting, nice variety of themes, ) the ability to choose from a healthy selection of extensions available
 2. What do the following commands do?
+   
   **pwd**- Prints the name of the current directory
+  
   **ls**- Used to list all files in current directory (Besdies the hidden files)
+  
   **cd**- change directory or cd allows you to change directorys
+  
   **mkdir**- This command is used to make directorys
+  
   **touch** - used to create, change and modify timestamps of a file
+  
 3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
 **cd projects**- CD is in charge of changing the directory and the projects is the argument. The argument is the name of the directory

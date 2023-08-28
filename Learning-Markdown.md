@@ -11,5 +11,3 @@ Assignment
 4. ***When*** making text bold or italicized for emphasis, it is best practice to use which symbol? The Asterisk symbol is best practice for creating those texts
 5. ***To*** create a link with Markdown- To make a link in mark down put the link text in square brackets and the actual link in parentheses right after.
 6. ***To*** create unordered bulleted list use asterisk signs, plus signs or dashes
-
-& dragonfly

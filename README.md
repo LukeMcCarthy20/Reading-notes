@@ -8,11 +8,8 @@ A growth mindset is all about tackling challenges head-on and charging forward t
 **Embrace challenges**- *Each* challenge you overcome or succeed in will make you ***stronger*** and you can only grow by challening yourself.
 **Don't let others success discourage you**- *Instead* of letting other peoples achivements discourage you use it as ***motavation*** to better yourself and give yourself a goal to work towards. Also remember it takes time to get to where they are and most likely didn't come to them naturally.
 **Learn from setbacks**- *Reflect* on what went wrong, learn from it, and ***adpat*** your approach. Every setback is a chance to come back stronger.
-
-[Growth Mindset](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
-
-
-[Reading Notes](Learning-Markdown.md)
-
+# Table of Contents
+1. [Grwoth Mindset]((https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
+2. [Reading Notes](Learning-Markdown.md)
 
 

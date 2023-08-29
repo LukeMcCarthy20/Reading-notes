@@ -4,7 +4,7 @@
 ---
 ## Questions:
 1. **What is Version Control**?
-   * Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
+* Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
    
 3. **What is cloning in Git**?
 * creates a copy of an existing Git repository from a particular server by using the clone command with a repository. This is done by grabbing the link of the Git repository and cloning it in the terminal

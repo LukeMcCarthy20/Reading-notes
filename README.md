@@ -9,4 +9,4 @@ My name is Luke, I am 20 years old and do not have any previous experience in co
 2. [Reading Notes](Learning-Markdown.md)
 3. [Reading Notes 2](Read-2.md)
 4. [Reading Notes 3](Read-03.md)
-
+5. [Growthmindset](Growthmindset.md)

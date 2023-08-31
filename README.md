@@ -13,4 +13,5 @@ My name is Luke, I am 20 years old and do not have any previous experience in co
 6. [Reading Notes 4](Read-4.md)
 7. [Reading Notes 5](Read-5.md)
 8. [Reading Notes 6](Read-6.md)
-9. [LAB 3 additonal notes](Additonal-ReadingNotes-Lab03.md)
+9. [Reading Notes 6](Read-7.md)
+10. [LAB 3 additonal notes](Additonal-ReadingNotes-Lab03.md)

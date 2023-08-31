@@ -5,8 +5,7 @@
 
 ## What is an expression in JavaScript?
 
-* **
-In JavaScript, an expression is a piece of code that produces a value.**
+* **In JavaScript, an expression is a piece of code that produces a value.**
 
 ## Why would we use a loop in our code?
 

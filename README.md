@@ -18,5 +18,6 @@ My name is Luke, I am 20 years old and do not have any previous experience in co
 10. [Reading Notes 8](Read-8.md)
 11. [LAB 3 additonal notes](Additonal-ReadingNotes-Lab03.md)
 ## Code 201
+1. [AI and Prompt Engineering (prep)](prompt-engineering.md)
 ## Code 301
 ## Code 401

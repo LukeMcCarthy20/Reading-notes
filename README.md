@@ -20,6 +20,7 @@ My name is Luke, I am 20 years old and do not have any previous experience in co
 ## Code 201
 1. [AI and Prompt Engineering (prep)](prompt-engineering.md)
 1. [Reading 01](class-01.md)
-2. [HTML Lab 01](index.html)
+2. [Reading 02](class-02.md)
+3. [HTML Lab 01]()
 ## Code 301
 ## Code 401

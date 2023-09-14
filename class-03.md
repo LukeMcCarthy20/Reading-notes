@@ -4,18 +4,21 @@
 ---
 ## HTML QUESTIONS
 1. **When should you use an unordered list in your HTML document?**
-* 
+* When you want a list thats bulleted and does not have to be in order or numbered.
 
 2. **How do you change the bullet style of unordered list items?**
-
+* By using the style attribute or selecting the unordered list items in a css folder. 
 
 3. **When should you use an ordered list vs an unorder list in your HTML document?**
-
+* For sequential information or information that you want the user to see in order.
 
 4. **Describe two ways you can change the numbers on list items provided by an ordered list?**
 
+* By using the start attribute or changing the style type.
+
 ## CSS QUESTIONS
 1. **Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?**
+
 
 
 2. **List and describe the four parts of an HTML elements box as referred to by the box model.**

@@ -38,3 +38,5 @@
 
 * padding 
 * letter-spacing
+
+## Things I want to learn more about

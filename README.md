@@ -27,6 +27,7 @@ My name is Luke, I am 20 years old and do not have any previous experience in co
 4. [Reading 06](class-06.md)
 4. [Reading 07](class-07.md)
 4. [Reading 08](class-08.md)
+4. [Reading 09](class-09.md)
 4. [HTML Lab 01]()
 ## Code 301
 ## Code 401

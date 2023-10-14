@@ -3,8 +3,7 @@
 
 ---
 ## Intro
-My name is Luke, I am 20 years old and do not have any previous experience in coding besides a class my sophmore year of highschool that sparked my intreset in coding. My computer operating system is windows 11 and my version number is 22H2. I am excited for this class because coding is very enjoyable for me and feels more like a hobby rather than a chore. I'm also excited to work towards expanding my knowledge in coding and for it to hopefully help me towards my future career.
-# Table of Contents
+Welcome to my website, My name is Luke McCarthy I am from Cedar Rapids Iowa and I am a 20 year old software developer. Here you will find reading assigments and other useful information throughout my time at Delta V coding school.
 ## Code 102
 1. [Growth Mindset Picture](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 2. [Growthmindset](Growthmindset.md)
